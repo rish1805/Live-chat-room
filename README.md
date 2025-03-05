@@ -8,4 +8,5 @@ Real-time Messaging: Users can send and receive messages instantly.
 Multiple Chat Rooms: Users can switch between different chat rooms, such as General, Studies, Music, and Gaming.
 Username customization: Users can update their display names, which are saved in the local storage.
 Dynamic UI Updates: The interface updates automatically when new messages are sent or received.
+
 Check it out here: https://live-chat-room-f1b3f.web.app/
